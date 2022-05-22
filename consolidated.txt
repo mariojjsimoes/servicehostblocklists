@@ -54,8 +54,11 @@
 0.0.0.0 ign-aeuaxe7jlwmdc-6d5d2pd13-1d350.eu.api.amazonvideo.com
 0.0.0.0 api.amazon.co.uk
 0.0.0.0 msh.amazon.com
+0.0.0.0 msh.amazon.co.uk
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 ab3d5pygdag9.eu.api.amazonvideo.com
+0.0.0.0 dp-gw-na.amazon.com
+0.0.0.0 s.amazon-adsystem.com
 
 0.0.0.0 rbxcdn.com
 0.0.0.0 roblox.com
