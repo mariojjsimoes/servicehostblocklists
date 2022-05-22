@@ -19,3 +19,6 @@
 0.0.0.0 www.netflix.com
 0.0.0.0 codex.nflxext.com
 0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 cdn-0.nflximg.com
+0.0.0.0 nrdp51-appboot.netflix.com
+0.0.0.0 customerevents.netflix.com
