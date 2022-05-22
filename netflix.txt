@@ -1,0 +1,10 @@
+# Title:NetFlix Block List
+#
+# This hosts file contains entries to block NetFlix service
+#
+#
+# Fetch the latest version of this file: 
+# Project home page: 
+# Project releases: 
+#
+# ===============================================================
