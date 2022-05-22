@@ -15,9 +15,9 @@
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube.googleapis.com
 0.0.0.0 youtubei.googleapis.com
-0.0.0.0 ytimg.com
-0.0.0.0 i.ytimg.com
-0.0.0.0 ytimg.l.google.com
+#0.0.0.0 ytimg.com
+#0.0.0.0 i.ytimg.com
+#0.0.0.0 ytimg.l.google.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 rr2---sn-8vq54vox2u-apne.googlevideo.com
 0.0.0.0 rr1---sn-8vq54vox2u-apnz.googlevideo.com
