@@ -22,3 +22,5 @@
 0.0.0.0 cdn-0.nflximg.com
 0.0.0.0 nrdp51-appboot.netflix.com
 0.0.0.0 customerevents.netflix.com
+0.0.0.0 rbxcdn.com
+0.0.0.0 roblox.com

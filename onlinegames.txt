@@ -1,0 +1,14 @@
+# Title:OnlineGames Block List
+#
+# This hosts file contains entries to block Several Online Games services
+#
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/mariojjsimoes/servicehostblocklists/main/onlinegames.txt
+# Project home page: https://github.com/mariojjsimoes/servicehostblocklists
+# Project releases: 
+#
+# ===============================================================
+
+#Roblox
+0.0.0.0 rbxcdn.com
+0.0.0.0 roblox.com
