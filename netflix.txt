@@ -31,3 +31,4 @@
 0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 ichnaea.netflix.com
+0.0.0.0 occ-0-3638-360.1.nflxso.net

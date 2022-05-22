@@ -22,6 +22,17 @@
 0.0.0.0 cdn-0.nflximg.com
 0.0.0.0 nrdp51-appboot.netflix.com
 0.0.0.0 customerevents.netflix.com
+0.0.0.0 nrdp.prod.ftl.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 preapp.prod.partner.netflix.net
+0.0.0.0 preapp.prod.partner.netflix.net
+0.0.0.0 appboot.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 occ-0-3638-360.1.nflxso.net
+
 0.0.0.0 googlevideo.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
@@ -31,4 +42,7 @@
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 ytimg.com
 0.0.0.0 i.ytimg.com
-0.0.0.0 ytimg.l.google.com   
+0.0.0.0 ytimg.l.google.com
+
+0.0.0.0 rbxcdn.com
+0.0.0.0 roblox.com
