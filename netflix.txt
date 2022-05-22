@@ -13,3 +13,9 @@
 0.0.0.0 nflxso.net
 0.0.0.0 nflximg.com
 0.0.0.0 nflxext.com
+0.0.0.0 assets.nflxext.com
+0.0.0.0 push.prod.netflix.com
+0.0.0.0 prod.netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 codex.nflxext.com
+0.0.0.0 ichnaea-web.netflix.com
