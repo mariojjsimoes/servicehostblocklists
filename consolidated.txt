@@ -26,12 +26,15 @@
 0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 api-global.netflix.com
 0.0.0.0 preapp.prod.partner.netflix.net
-0.0.0.0 preapp.prod.partner.netflix.net
 0.0.0.0 appboot.netflix.com
 0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 occ-0-3638-360.1.nflxso.net
+0.0.0.0 tp-s.nflximg.net
+0.0.0.0 android.prod.ftl.netflix.com
+0.0.0.0 ipv4-c042-mad001-ix.1.oca.nflxvideo.net
+0.0.0.0 oc2-0-3638-360.1.nflxso.net
 
 0.0.0.0 googlevideo.com
 0.0.0.0 youtu.be
