@@ -10,6 +10,8 @@
 # ===============================================================
 
 0.0.0.0 netflix.com
+0.0.0.0 uiboot.netflix.com
+0.0.0.0 nrdp.prod.cloud.netflix.com
 0.0.0.0 nflxso.net
 0.0.0.0 nflximg.com
 0.0.0.0 nflxext.com
