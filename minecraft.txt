@@ -1,22 +1,22 @@
-in.appcenter.ms
-realms-bedrock-production.eastus2.cloudapp.azure.com
-realms-bedrock-production.eastus2.cloudapp.azure.com
-sessiondirectory.xboxlive.com.akadns.net
-rtep-ingestion-shared-na-2.centralus.cloudapp.azure.com
-userpresence.xboxlive.com.akadns.net
-achievements.xboxlive.com
-privacy.xboxlive.com
-notify.xboxlive.com
-userstats.xboxlive.com
-sessiondirectory.xboxlive.com
-xsts.auth.xboxlive.com.akadns.net
-profile.xboxlive.com
-peoplehub.xboxlive.com
-persona.franchise.minecraft-services.net
-pocket.realms.minecraft.net
-client.support-files.minecraft-services.net
-store.mktpl.minecraft-services.net
-authorization.franchise.minecraft-services.net
-rta.xboxlive.com
-title.mgt.xboxlive.com.akadns.net
-sisu.xboxlive.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 realms-bedrock-production.eastus2.cloudapp.azure.com
+0.0.0.0 realms-bedrock-production.eastus2.cloudapp.azure.com
+0.0.0.0 sessiondirectory.xboxlive.com.akadns.net
+0.0.0.0 rtep-ingestion-shared-na-2.centralus.cloudapp.azure.com
+0.0.0.0 userpresence.xboxlive.com.akadns.net
+0.0.0.0 achievements.xboxlive.com
+0.0.0.0 privacy.xboxlive.com
+0.0.0.0 notify.xboxlive.com
+0.0.0.0 userstats.xboxlive.com
+0.0.0.0 sessiondirectory.xboxlive.com
+0.0.0.0 xsts.auth.xboxlive.com.akadns.net
+0.0.0.0 profile.xboxlive.com
+0.0.0.0 peoplehub.xboxlive.com
+0.0.0.0 persona.franchise.minecraft-services.net
+0.0.0.0 pocket.realms.minecraft.net
+0.0.0.0 client.support-files.minecraft-services.net
+0.0.0.0 store.mktpl.minecraft-services.net
+0.0.0.0 authorization.franchise.minecraft-services.net
+0.0.0.0 rta.xboxlive.com
+0.0.0.0 title.mgt.xboxlive.com.akadns.net
+0.0.0.0 sisu.xboxlive.com
