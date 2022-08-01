@@ -1,6 +1,6 @@
 # Title:Youtube Block List
 #
-# This hosts file contains entries to block NetFlix service
+# This hosts file contains entries to block Youtube service
 #
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/mariojjsimoes/servicehostblocklists/main/youtube.txt
