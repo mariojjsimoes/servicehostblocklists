@@ -33,8 +33,9 @@
 0.0.0.0 android.prod.cloud.netflix.com
 0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 ichnaea.netflix.com
-0.0.0.0 occ-0-3638-360.1.nflxso.net
 0.0.0.0 tp-s.nflximg.net
 0.0.0.0 android.prod.ftl.netflix.com
 0.0.0.0 ipv4-c042-mad001-ix.1.oca.nflxvideo.net
 0.0.0.0 oc2-0-3638-360.1.nflxso.net
+0.0.0.0 occ-0-3638-360.1.nflxso.net
+0.0.0.0 occ-0-3638-3211.1.nflxso.net
