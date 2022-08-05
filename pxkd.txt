@@ -4,3 +4,5 @@
 0.0.0.0	pkxd-lobby.pkds.it.cdn.cloudflare.net
 0.0.0.0	pkxd-promo-code-api.pkds.it
 0.0.0.0	game-store-data.pkds.it
+0.0.0.0 policies.playpkxd.com
+0.0.0.0 playpkxd.com
