@@ -9,6 +9,7 @@
 #
 # ===============================================================
 0.0.0.0 googlevideo.com
+0.0.0.0 clients1.google.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 youtube.com
@@ -26,7 +27,11 @@
 0.0.0.0 rr2---sn-8vq54vox2u-apnz.googlevideo.com
 0.0.0.0 rr2---sn-8vq54vox2u-apnl.googlevideo.com
 0.0.0.0 rr3---sn-8vq54vox2u-apns.googlevideo.com
+0.0.0.0 rr5---sn-8vq54vox2u-apne.googlevideo.com
 0.0.0.0 rr6---sn-8vq54vox2u-apne.googlevideo.com
+0.0.0.0 rr3---sn-apn7en7e.googlevideo.com
+0.0.0.0 rr4---sn-5hne6n6l.googlevideo.com
+0.0.0.0 rr5---sn-apn7en7e.googlevideo.com
 
 0.0.0.0 r1---sn-045oxu-045s.googlevideo.com
 0.0.0.0 r1---sn-0opoxu-hutee.googlevideo.com
