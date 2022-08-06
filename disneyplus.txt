@@ -1,0 +1,2 @@
+	dss-hydra-feeds-prod.bamgrid.com
+  config-cd-dmgz.bamgrid.com
