@@ -1,30 +1,33 @@
-osb-apps.samsungqbe.com
-cdn.samsungcloudsolution.com
-cdn.samsungcloudsolution.com
-otn.samsungcloudcdn.com
-otnprd6.samsungcloudsolution.net
-otnprd7.samsungcloudsolution.net
-otnprd8.samsungcloudsolution.net
-otnprd9.samsungcloudsolution.net
-otnprd10.samsungcloudsolution.net
-otnprd11.samsungcloudsolution.net
-www.samsungotn.net
-samsung-eden.wuaki.tv
-ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
-osb.samsungqbe.com
-osb-apps.samsungqbe.com
-osb-v1-eusvc.samsungqbe.com
-otnprd11.samsungcloudsolution.net
-otnprd10.samsungcloudsolution.net
-configprd.samsungcloudsolution.net
-gpm.samsungqbe.com
-time.samsungcloudsolution.com
-empdownprd.samsungcloudsolution.com
-invitation.samsungiotcloud.com
-lcprd1.samsungcloudsolution.net
-log-ingestion-eu.samsungacr.com
-notice.samsungcloudsolution.com
-noticecdn.samsungcloudsolution.com
-oempprd.samsungcloudsolution.com
-samsung-eden.wuaki.tv
-sas.samsungcloudsolution.com
+0.0.0.0 osb-apps.samsungqbe.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 otn.samsungcloudcdn.com
+0.0.0.0 otnprd6.samsungcloudsolution.net
+0.0.0.0 otnprd7.samsungcloudsolution.net
+0.0.0.0 otnprd8.samsungcloudsolution.net
+0.0.0.0 otnprd9.samsungcloudsolution.net
+0.0.0.0 otnprd10.samsungcloudsolution.net
+0.0.0.0 otnprd11.samsungcloudsolution.net
+0.0.0.0 www.samsungotn.net
+0.0.0.0 samsung-eden.wuaki.tv
+0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+0.0.0.0 osb.samsungqbe.com
+0.0.0.0 osb-apps.samsungqbe.com
+0.0.0.0 osb-v1-eusvc.samsungqbe.com
+0.0.0.0 otnprd11.samsungcloudsolution.net
+0.0.0.0 otnprd10.samsungcloudsolution.net
+0.0.0.0 configprd.samsungcloudsolution.net
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 time.samsungcloudsolution.com
+0.0.0.0 empdownprd.samsungcloudsolution.com
+0.0.0.0 invitation.samsungiotcloud.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 log-ingestion-eu.samsungacr.com
+0.0.0.0 notice.samsungcloudsolution.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 samsung-eden.wuaki.tv
+0.0.0.0 sas.samsungcloudsolution.com
+0.0.0.0 sso.internetat.tv
+0.0.0.0 zpu.samsungelectronics.com
+0.0.0.0 ypu.samsungelectronics.com
