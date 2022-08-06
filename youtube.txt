@@ -10,6 +10,7 @@
 # ===============================================================
 0.0.0.0 googlevideo.com
 0.0.0.0 yt3.ggpht.com
+0.0.0.0	yt3.ggpht.com
 0.0.0.0 ggpht.com
 0.0.0.0 clients1.google.com
 0.0.0.0 youtu.be
