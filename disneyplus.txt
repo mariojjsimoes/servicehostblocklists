@@ -1,2 +1,2 @@
-	dss-hydra-feeds-prod.bamgrid.com
-  config-cd-dmgz.bamgrid.com
+0.0.0.0 dss-hydra-feeds-prod.bamgrid.com
+0.0.0.0 config-cd-dmgz.bamgrid.com
