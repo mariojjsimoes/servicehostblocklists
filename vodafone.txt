@@ -3,7 +3,7 @@
 # This hosts file contains entries to block Vodafone service
 #
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/mariojjsimoes/servicehostblocklists/main/netflix.txt
+# Fetch the latest version of this file: https://raw.githubusercontent.com/mariojjsimoes/servicehostblocklists/main/vodafone.txt
 # Project home page: https://github.com/mariojjsimoes/servicehostblocklists
 # Project releases: 
 #
