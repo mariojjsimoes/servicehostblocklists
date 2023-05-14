@@ -1,19 +1,30 @@
-3038.images-vfp2.ott.kaltura.com
-3038.static-vfp2.ott.kaltura.com
-3038.dms-vfp1.ott.kaltura.com
-3038.static-vfp1.ott.kaltura.com
-3038.ntp1-vfs1.ott.kaltura.com
-3038.ntp1-vfp1.ott.kaltura.com
-cdn.pt.vtv.vodafone.com
-flume.vtvanalytics.com
-apigw.pt.vtv.vodafone.com
-rr.cdn.iptv.vodafone.pt
-vdp654rf-ov.anycast.nagra.com
-mati-bks-01.cdn.vodafone.pt
-mati-bks-02.cdn.vodafone.pt
-mati-bks-03.cdn.vodafone.pt
-mati-bks-04.cdn.vodafone.pt
-mati-bks-05.cdn.vodafone.pt
-mati-bks-06.cdn.vodafone.pt
-mati-bks-07.cdn.vodafone.pt
-mati-bks-08.cdn.vodafone.pt
+# Title:Vodafone Block List
+#
+# This hosts file contains entries to block Vodafone service
+#
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/mariojjsimoes/servicehostblocklists/main/netflix.txt
+# Project home page: https://github.com/mariojjsimoes/servicehostblocklists
+# Project releases: 
+#
+# ===============================================================
+
+0.0.0.0 3038.images-vfp2.ott.kaltura.com
+0.0.0.0 3038.static-vfp2.ott.kaltura.com
+0.0.0.0 3038.dms-vfp1.ott.kaltura.com
+0.0.0.0 3038.static-vfp1.ott.kaltura.com
+0.0.0.0 3038.ntp1-vfs1.ott.kaltura.com
+0.0.0.0 3038.ntp1-vfp1.ott.kaltura.com
+0.0.0.0 cdn.pt.vtv.vodafone.com
+0.0.0.0 flume.vtvanalytics.com
+0.0.0.0 apigw.pt.vtv.vodafone.com
+0.0.0.0 rr.cdn.iptv.vodafone.pt
+0.0.0.0 vdp654rf-ov.anycast.nagra.com
+0.0.0.0 mati-bks-01.cdn.vodafone.pt
+0.0.0.0 mati-bks-02.cdn.vodafone.pt
+0.0.0.0 mati-bks-03.cdn.vodafone.pt
+0.0.0.0 mati-bks-04.cdn.vodafone.pt
+0.0.0.0 mati-bks-05.cdn.vodafone.pt
+0.0.0.0 mati-bks-06.cdn.vodafone.pt
+0.0.0.0 mati-bks-07.cdn.vodafone.pt
+0.0.0.0 mati-bks-08.cdn.vodafone.pt
